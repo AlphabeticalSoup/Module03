@@ -24,7 +24,7 @@ aside {
   background: #fff;
   padding: 10px;
   font-size: 13px;
-  border-right: 20px solid #303030;
+  border-right: 20px solid #9f6cff;
   margin: 0 0 10px 10px;
   text-align: right;
 }
@@ -57,9 +57,9 @@ article {
 }
 
 section {
-  border: 2px solid green;
-  border-left: 20px solid green;
-  background-color: #feffdf;
+  border: 2px solid rgb(255, 174, 0);
+  border-left: 20px solid rgb(255, 174, 0);
+  background-color: #ffeddf;
   padding: 10px;
   margin-top: 15px;
   font-size: 13px;
